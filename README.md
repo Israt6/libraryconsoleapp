@@ -1,4 +1,4 @@
-This project was writte by me in 16.05.2022 as my first project in C++
+This project was writte by me in 20/1/2025 as my third project in C++.
 ## Code Documentation
 
 The code defines four different structs: `Book`, `Membership`, `Agreement`, and `Person`. Each of them has different data members and member functions.
